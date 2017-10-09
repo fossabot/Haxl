@@ -1,4 +1,5 @@
 ![Haxl Logo](https://github.com/facebook/Haxl/raw/master/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHaxl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHaxl?ref=badge_shield)
 
 # Haxl
 
@@ -47,3 +48,7 @@ Graph API.
  * [There is no Fork: An Abstraction for Efficient, Concurrent, and Concise Data Access](http://community.haskell.org/~simonmar/papers/haxl-icfp14.pdf), our paper on Haxl, accepted for publication at ICFP'14.
 
 [![Build Status](https://travis-ci.org/facebook/Haxl.svg?branch=master)](https://travis-ci.org/facebook/Haxl)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FHaxl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FHaxl?ref=badge_large)
